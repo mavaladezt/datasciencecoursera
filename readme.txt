@@ -1,0 +1,1 @@
+This repository is where I will be storing all the information, notes, assignments and homework related to Johns Hopkins University Data Science in R certification.
